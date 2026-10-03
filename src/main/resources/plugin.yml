@@ -1,0 +1,9 @@
+name: Mechanics
+description: Механики
+version: 1.0.0
+
+main: com.kianit.firstKotlinPlugin.Mechanics
+api-version: '1.21.11'
+load: POSTWORLD
+
+author: Kian1t

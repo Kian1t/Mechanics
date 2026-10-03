@@ -1,0 +1,53 @@
+[14:13:51] [ServerMain/INFO]: [bootstrap] Running Java 22 (OpenJDK 64-Bit Server VM 22.0.2+9-FR; Amazon.com Inc. Corretto-22.0.2.9.1) on Windows 10 10.0 (amd64)
+[14:13:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-132-ver/1.21.11@c5eb079 (2026-05-11T11:43:09Z) for Minecraft 1.21.11
+[14:13:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:13:52] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'C:\Users\markf\IdeaProjects\FirstKotlinPlugin\build\libs\FirstKotlinPlugin-1.0.0-all.jar'...
+[14:13:54] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'C:\Users\markf\IdeaProjects\FirstKotlinPlugin\build\libs\FirstKotlinPlugin-1.0.0-all.jar' in 1936ms.
+[14:13:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[14:13:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - Mechanics (1.0.0)
+[14:14:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:14:04] [ServerMain/INFO]: Loaded 1470 recipes
+[14:14:04] [ServerMain/INFO]: Loaded 1584 advancements
+[14:14:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:14:05] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 605,0ms
+[14:14:05] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[14:14:05] [Server thread/INFO]: Loading properties
+[14:14:05] [Server thread/INFO]: This server is running Paper version 1.21.11-132-ver/1.21.11@c5eb079 (2026-05-11T11:43:09Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[14:14:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:14:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:14:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:14:06] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[14:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[14:14:07] [Server thread/INFO]: Generating keypair
+[14:14:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:14:07] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:14:07] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:14:07] [Server thread/INFO]: [Mechanics] Loading server plugin Mechanics v1.0.0
+[14:14:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:14:07] [Server thread/INFO]: Preparing level "world"
+[14:14:08] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[14:14:08] [Server thread/INFO]: Preparing spawn area: 100%
+[14:14:08] [Server thread/INFO]: Prepared spawn area in 3 ms
+[14:14:08] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[14:14:08] [Server thread/INFO]: Prepared spawn area in 2 ms
+[14:14:08] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[14:14:08] [Server thread/INFO]: Prepared spawn area in 1 ms
+[14:14:08] [Server thread/INFO]: Done preparing level "world" (0.658s)
+[14:14:08] [Server thread/INFO]: [Mechanics] Enabling Mechanics v1.0.0
+[14:14:08] [Server thread/INFO]: [Mechanics] FirstKotlinPlugin enabled!
+[14:14:08] [Server thread/INFO]: [spark] Starting background profiler...
+[14:14:08] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[14:14:08] [Server thread/INFO]: Running delayed init tasks
+[14:14:08] [Server thread/INFO]: Done (18.492s)! For help, type "help"
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: You are running the latest build for your Minecraft version (1.21.11)
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: However, you are 2 release(s) behind the latest stable release (26.1.2)!
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: It is recommended that you update as soon as possible
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: https://papermc.io/downloads/paper
+[14:14:08] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
+[14:14:25] [User Authenticator #0/INFO]: UUID of player Kian1t is 9c6c0693-98ba-484f-9791-b8374a623e86
+[14:14:27] [Server thread/INFO]: Kian1t joined the game
+[14:14:28] [Server thread/INFO]: Kian1t[/127.0.0.1:49370] logged in with entity id 104 at ([world]-0.5893652671942926, 67.0, 2.7386673671279973)
+[14:15:10] [Server thread/INFO]: Kian1t lost connection: Disconnected
+[14:15:10] [Server thread/INFO]: Kian1t left the game
